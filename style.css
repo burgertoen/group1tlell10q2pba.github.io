@@ -8,6 +8,7 @@ body {
   }
   nav{
     background: #6C4A3F;
+    font-family:"Helvetica", 'Courier New', Courier, monospace;
     height: 100px;
     width: 100%;
   }
@@ -44,7 +45,7 @@ body {
     text-align: center;
     color:black;
     font-size: 100px;
-    font-family:"Times new roman", 'Courier New', Courier, monospace;
+    font-family:"helvetica", 'Courier New', Courier, monospace;
   }
 
   h2{
@@ -112,5 +113,21 @@ table{
   margin-left: auto;
   margin-right: auto;
   
+}  
+h6{
+  color:black;
+  text-align: center;
+  font-family: "Helvetica";
+  font-size: 200%;
 }
+p{
+  text-align:center;
+  font-family: "Helvetica";
+  font-size: large;
+  font-weight: lighter;
+
+
+}
+
+
 
